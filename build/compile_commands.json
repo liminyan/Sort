@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/liminyan/Desktop/各种排序C++/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/Cellar/sfml/3.0.0/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sorting_visualization.dir/sorting_visualization.cpp.o -c /Users/liminyan/Desktop/各种排序C++/sorting_visualization.cpp",
+  "file": "/Users/liminyan/Desktop/各种排序C++/sorting_visualization.cpp",
+  "output": "CMakeFiles/sorting_visualization.dir/sorting_visualization.cpp.o"
+},
+{
+  "directory": "/Users/liminyan/Desktop/各种排序C++/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/Cellar/sfml/3.0.0/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sorting_visualization.dir/sort.cpp.o -c /Users/liminyan/Desktop/各种排序C++/sort.cpp",
+  "file": "/Users/liminyan/Desktop/各种排序C++/sort.cpp",
+  "output": "CMakeFiles/sorting_visualization.dir/sort.cpp.o"
+}
+]

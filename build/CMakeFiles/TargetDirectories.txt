@@ -1,0 +1,3 @@
+/Users/liminyan/Desktop/各种排序C++/build/CMakeFiles/sorting_visualization.dir
+/Users/liminyan/Desktop/各种排序C++/build/CMakeFiles/edit_cache.dir
+/Users/liminyan/Desktop/各种排序C++/build/CMakeFiles/rebuild_cache.dir
