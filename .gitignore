@@ -22,3 +22,5 @@
 *.internal
 
 *.bin
+
+build/*
